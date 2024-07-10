@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Graphic Design Upgrades",
+    "description": "Ehance the visual appeal of your game with high-quality graphic design services.",
+    "image": "../public/images/service1a.jpg"
+  },
+  {
+    "title": "Sound and Music Design",
+    "description": "Improve your game’s audio experience with custom sound effects and music compositions. Our audio designers will craft immersive soundscapes .",
+    "image": "../public/images/service1b.png"
+  },
+  {
+    "title": "Performance Optimization",
+    "description": "Boost your game’s performance with our optimization services. We analyze and refine your game’s code to ensure smooth gameplay, and a seamless experience for players.",
+    "image": "../public/images/service1c.png"
+  }
+  
+ 
+ 
+]

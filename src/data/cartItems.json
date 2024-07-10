@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Spider Man",
+    "description": "Swing into action with the thrilling Spider-Man game! Experience the life of the iconic web-slinger as you navigate the bustling streets of New York City.",
+    "image": "../public/images/cart1.jpg"
+  },
+  {
+    "title": "Call Of Duty",
+    "description": "Step into the heart of the battlefield with Call of Duty, the ultimate first-person shooter experience. Engage in intense, fast-paced combat across a variety of stunning environments.",
+    "image": "../public/images/cart2.jpg"
+  },
+  {
+    "title": "Fifa-23",
+    "description": "Dive into the world of football with FIFA 23, the latest edition of the acclaimed series.Create and manage your ultimate team, guide your favorite club to victory in Career Mode.",
+    "image": "../public/images/cart3.jpg"
+  },{
+    "title": "Need For Speed",
+    "description": "Unleash your inner speed demon with Need for Speed, the iconic racing game that delivers high-octane thrills and adrenaline-pumping action. Buckle up and hit the gas.",
+    "image": "../public/images/cart4.jpg"
+  },
+  {
+    "title": "Need For Speed",
+    "description": "Unleash your inner speed demon with Need for Speed, the iconic racing game that delivers high-octane thrills and adrenaline-pumping action. Buckle up and hit the gas.",
+    "image": "../public/images/cart4.jpg"
+  },
+  {
+    "title": "Need For Speed",
+    "description": "Unleash your inner speed demon with Need for Speed, the iconic racing game that delivers high-octane thrills and adrenaline-pumping action. Buckle up and hit the gas.",
+    "image": "../public/images/cart4.jpg"
+  },{
+    "title": "Need For Speed",
+    "description": "Unleash your inner speed demon with Need for Speed, the iconic racing game that delivers high-octane thrills and adrenaline-pumping action. Buckle up and hit the gas.",
+    "image": "../public/images/cart4.jpg"
+  }
+ 
+]
