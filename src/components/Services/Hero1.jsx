@@ -1,10 +1,10 @@
-import Servicehero from "../../data/Servicehero.json"
+import Servicehero1 from "../../data/Servicehero1.json"
 
 const Hero = () => {
   return (
     <div
       className="flex flex-col items-start justify-center  bg-cover bg-center h-screen "
-      style={{ backgroundImage: `url(${Servicehero.backgroundImage})` }}
+      style={{ backgroundImage: `url(${Servicehero1.backgroundImage})` }}
     >
       <div className="absolute inset-0 bg-black h-full opacity-50 " />
 
