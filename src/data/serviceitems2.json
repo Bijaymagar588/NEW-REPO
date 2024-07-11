@@ -1,12 +1,12 @@
 {
-  "hero1": {
+  "hero2": {
     "backgroundImage": "../src/images/d.png",
     "title": "Game Enhancement Services!",
     "description": "Where passion meets gaming excellence!",
     "buttonText": "Upcoming Games",
     "buttonLink": "./"
   },
-  "serviceitems1": [
+  "serviceitems2": [
     {
       "title": "Graphic Design Upgrades",
       "description": "Ehance the visual appeal of your game with high-quality graphic design services.",
